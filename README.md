@@ -27,9 +27,9 @@ All image generation follows the **Tempera Chronicle** style: Renaissance fresco
   - [trilogy.md](plan/trilogy.md) — Act-by-act beat outline, trilogy structure, POV design
 
 - **[acts/](acts/)** — Per-act production folders
-  - [I/](acts/I/) — Act I: The Price (shot lists TBD)
-  - [II/](acts/II/) — Act II: The Tent (shot lists TBD)
-  - [III/](acts/III/) — Act III: The Refusal (shot lists TBD)
+  - [I/](acts/I/) — Act I: The Price (unit map and shot list complete)
+  - [II/](acts/II/) — Act II: The Tent (TBD)
+  - [III/](acts/III/) — Act III: The Refusal (TBD)
 
 - **[assets/](assets/)** — Generated images, test frames, reference material
 

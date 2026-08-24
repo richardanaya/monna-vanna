@@ -13,21 +13,23 @@ Each act is a self-contained film chapter with its own dramatic arc, but all thr
 ## Trilogy Shape
 
 ### **Act I: The Price**
-**Setting:** Pisa, inside the city walls, Guido and Marco's residence  
+**Setting:** A room in the palace of Guido Colonna (window on the country; door at back; marble columns)  
 **Time:** Night, during the siege  
-**Duration:** ~35–40 minutes (estimated)
+**Duration:** ~60–75 minutes (word-for-word, ~6,700 words spoken dialogue)
 
 ### **Act II: The Tent**
 **Setting:** Florentine siege camp, Prinzivalle's tent  
 **Time:** Dawn, the morning after Act I  
-**Duration:** ~30–35 minutes (estimated)
+**Duration:** TBD (pending Sutro 1904 correction)
 
 ### **Act III: The Refusal**
 **Setting:** Pisa, Guido and Giovanna's residence  
 **Time:** Morning, immediately after Act II  
-**Duration:** ~30–35 minutes (estimated)
+**Duration:** TBD (pending Sutro 1904 correction)
 
-**Total trilogy runtime:** ~95–110 minutes (feature-length when combined, or three standalone short films)
+**Total trilogy runtime:** ~150–180 minutes estimated (feature-length when combined, or three standalone act-films)
+
+**Production approach:** Audio first. Lock a full Sutro reading for each act; cut picture to that track. Never compress dialogue to fit arbitrary runtimes.
 
 ---
 
@@ -76,44 +78,84 @@ While all three principal characters (Giovanna, Guido, Prinzivalle) are essentia
 
 ### **Act I: The Price**
 
-**Location:** Pisa, inside the besieged city, Guido's residence (council chamber, living quarters)
+**Location:** One continuous scene in a room in the palace of Guido Colonna (window on the country showing the breach; door at back; marble columns)
 
-**Principals:** Guido Colonna (Pisan commander), Marco Colonna (Guido's father), Giovanna (Guido's wife), Vedio, Borso, Torello (Pisan soldiers), Pisan elders of the Seigniory
+**Principals:** Guido Colonna (Pisan commander), Marco Colonna (Guido's father and envoy), Giovanna/Vanna (Guido's wife), Borso, Torello (Pisan lieutenants), crowd of citizens (at the door)
 
-**Setup:**
-- Pisa is starving under Florentine siege
-- Guido and the Seigniory debate surrender vs. holding out
-- Marco (elder statesman) argues for honor and tradition
-- Guido is torn: save the city or preserve Pisan pride?
+**Note:** Vedio is NOT in Act I. He is Prinzivalle's secretary in Act II. The Seigniory is heard of but not staged as a separate council scene — they have already met and summoned Vanna before the act's climax.
 
-**Inciting incident:**
-- Borso brings a message from Prinzivalle, Florentine mercenary captain (and Guido's former friend)
-- Prinzivalle offers to betray Florence and deliver food to Pisa — **on one condition**
-- The condition: **Giovanna must come to his tent alone, at night, wearing only a mantle (cloak), nothing beneath**
+**Setup (UNIT A — War council at the window):**
+- Guido, Borso, and Torello discuss the desperate siege situation
+- No powder left, last cannonball fired, fifty-pace breach in the walls
+- Pisa faces capitulation tonight or desertion by morning
+- Prinzivalle (Florentine mercenary captain) has delayed the assault
+- Guido reveals he sent his father Marco to negotiate with Prinzivalle
 
-**Rising tension:**
-- The Seigniory recoils in horror — this is dishonorable, unthinkable
-- Marco denounces the offer as an insult to Pisan virtue
-- Guido is paralyzed: accept and save the city (but sacrifice his wife's honor), or refuse and let Pisa starve?
-- Giovanna listens in silence, then speaks
+**Inciting incident (UNIT B — Marco returns):**
+- Marco enters, embraced by Guido — he was treated as an honored guest
+- Prinzivalle spoke of Plato and Marsilio Ficino, showed respect
+- Prinzivalle will delay the assault; Florence is already plotting his ruin
+- **He offers to pass a convoy of food, wine, cattle, powder, and lead into Pisa THIS NIGHT**
+- Guido asks: what does Prinzivalle demand in return?
 
-**Climax:**
-- **Giovanna decides:** she will go
-- She argues that **one woman's dignity is a small price for thousands of lives**
-- Guido protests, Marco protests, but Giovanna is resolute
-- She does not ask permission; she **chooses**
+**The demand (UNIT C — The price):**
+- Marco, voice heavy, names the price: **Giovanna**
+- She must be **delivered to Prinzivalle, alone, clad only in her mantle**
+- She will **return with the first rays of dawn**
+- Guido is struck: "Who? … What! My wife? … Vanna?"
+- Marco reveals: Prinzivalle loves her (she does not remember him); Marco has already told her; she turned white and left
+- Guido's response: **"Come, my friends, we will return to the ramparts, and die, at least, since die we must, without staining ourselves with dishonour."**
 
-**Falling action:**
-- Giovanna prepares to leave
-- Guido, devastated, can barely speak
-- Marco, in anguish, blesses her despite his objections
-- Giovanna departs into the night, wrapped in the mantle
+**Rising tension (UNIT D — Father against son):**
+- Marco argues duty vs. thousands of lives: "Are you my father?"
+- Guido orders Borso and Torello to hold Marco in custody
+- Marco reveals: **the Seigniory already knows** — he told them before coming to Guido
+- The Seigniory **refused to owe their safety to the sacrifice of a woman's love**
+- They have **summoned Vanna and placed the city's fate in her hands**
+- Guido claims "Vanna is mine" and insists her answer will match his, or their love was a lie
+
+**Climax (UNIT E — She enters and chooses):**
+- Cries of **"Vanna, Vanna!"** from outside
+- The door opens; crowd hides against the doorway, afraid to enter
+- **Giovanna enters alone and pale**
+- Guido embraces her feverishly, demands she speak
+- Vanna approaches Marco and says: **"My father, I shall go to-night."**
+- Marco kisses her brow: **"My daughter, I know."**
+- She tells Guido: **"Guido, I shall go. I must; I must obey." / "I shall go to Prinzivalle's tent to-night."**
+- Guido tries to rewrite her choice as assassination or secret love
+- Vanna: **"I do not know him; I have never seen him."**
+
+**Falling action (UNIT F — Refusal and exit):**
+- Guido's moral collapse: dungeon order (no one obeys), half-drawn sword toward Vanna
+- Vanna: **"If your love bids you, Guido."**
+- She speaks her whole heart: **"Guido, look at me… I love you, I owe everything to you! … And yet I shall go, I must, I must."**
+- Guido casts her off: **"Go; get you hence!" / "Go, I know you no longer!"**
+- Final exchange:  
+  GUIDO: "You go yonder?"  
+  VANNA: "Yes."  
+  GUIDO: "You will not return?"  
+  VANNA: "Yes, I shall return."  
+  GUIDO: "As to that, we shall see. … Who could have told me that my father knew her better than I!"
+- **Stage direction (final image):** Guido totters, clings to a marble column. Vanna goes out slowly and alone, without another glance at him.
 
 **Visual beats:**
-- Council chamber debate: torchlit stone walls, maps, exhausted faces
-- Giovanna's entrance: she has been listening from the doorway
-- Giovanna's decision: close-up on her face, candlelit, serene and resolute
-- Departure: Giovanna walks alone through dark Pisan streets, mantle trailing, toward the city gate
+- One room throughout: palace chamber, window showing breach, marble columns, door at back
+- Torch-amber and iron-grey light, ochre limestone walls
+- Held faces through long speeches (this is filmed theater, not montage)
+- Window inserts: the breach, the ruined country
+- Crowd at the door: afraid to enter, calling her name
+- Vanna's entrance: alone and pale, moral gravity not melodrama
+- Vanna's exit: slow, solitary, no backward glance (mantle implication only — throat-to-floor if cloaked; never nude)
+
+**Key corrections from earlier paraphrase:**
+- NOT a multi-location night walk — one room, continuous
+- Marco is the envoy, NOT Borso
+- Vedio is NOT in Act I
+- No invented Giovanna speech about "one woman's dignity" — her line is: **"My father, I shall go to-night."**
+- Seigniory already refused and summoned her; they are not debating in this scene
+- Word count: ~6,700 words → honest runtime ~60–75 minutes for word-for-word filmed performance
+
+**See `acts/I/README.md` and `acts/I/shots.md` for full unit map and shot list.**
 
 ---
 
@@ -175,7 +217,7 @@ While all three principal characters (Giovanna, Guido, Prinzivalle) are essentia
 
 **Location:** Pisa, Guido and Giovanna's residence
 
-**Principals:** Giovanna, Guido, Marco, Vedio (briefly)
+**Principals:** Giovanna, Guido, Marco, Vedio (Prinzivalle's secretary from Act II, now in Pisa)
 
 **Setup:**
 - Morning. Giovanna has returned
@@ -245,7 +287,7 @@ Though the play has a large cast, **it is fundamentally a three-hander:**
 
 ---
 
-## Shot List Development (Next Phase)
+## Shot List Development
 
 Each act folder (`acts/I/`, `acts/II/`, `acts/III/`) will eventually contain:
 
@@ -254,7 +296,7 @@ Each act folder (`acts/I/`, `acts/II/`, `acts/III/`) will eventually contain:
 3. **Seedance 2 prompt batches** (paste-ready for image generation)
 4. **Generated frames** (stored in `assets/` or per-act subfolders)
 
-**For now, these folders contain placeholder READMEs.** Shot lists will be developed in consultation with the director as production progresses.
+**Act I is complete:** Full unit map (`acts/I/README.md`) and shot list (`acts/I/shots.md`) are committed. Acts II and III will be developed from Sutro 1904 text in subsequent passes.
 
 ---
 
