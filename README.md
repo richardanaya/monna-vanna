@@ -1,6 +1,6 @@
 # Monna Vanna – AI Cinema Adaptation
 
-Full-play AI film production of Maurice Maeterlinck's *Monna Vanna* (Alfred Sutro English translation, 1904), adapted word-for-word into a cinematic trilogy using Tempera Chronicle visual aesthetic for Seedance 2.
+Full-play AI film production of Maurice Maeterlinck's *Monna Vanna* (Alfred Sutro English translation, 1904), adapted word-for-word into a cinematic trilogy using Oil Chronicle visual aesthetic.
 
 ## Project Intent
 
@@ -11,13 +11,14 @@ The adaptation is structured as a trilogy of act-films:
 - **Act II: The Tent**
 - **Act III: The Refusal**
 
-All image generation follows the **Tempera Chronicle** style: Renaissance fresco-influenced cinematic illustration, stylized and painterly, rejecting photorealism.
+All image generation follows the **Oil Chronicle** style: 19th-century academic history painting, oil on canvas, stylized and painterly, rejecting photorealism.
 
 ## Repository Structure
 
 - **[docs/](docs/)** — Public domain source, style guide, historical context
   - [pd-source.md](docs/pd-source.md) — Alfred Sutro 1904 translation, public domain lock
-  - [style-tempera-chronicle.md](docs/style-tempera-chronicle.md) — Complete visual style specification for Seedance 2
+  - [style-oil-chronicle.md](docs/style-oil-chronicle.md) — **Current visual style specification** (locked 2026-08-24)
+  - [style-tempera-chronicle.md](docs/style-tempera-chronicle.md) — Superseded fresco-style (archive only)
   - [historical-context.md](docs/historical-context.md) — Late 15th-century Pisa/Florence design context
 
 - **[looks/](looks/)** — Character visual design lock
@@ -35,7 +36,7 @@ All image generation follows the **Tempera Chronicle** style: Renaissance fresco
 
 ## How to Use This Repo
 
-1. Review the locked style guide in `docs/style-tempera-chronicle.md` — all image prompts must include the STYLE SUFFIX and NEGATIVE strings
+1. Review the locked style guide in `docs/style-oil-chronicle.md` — all image prompts must include the STYLE SUFFIX and NEGATIVE strings
 2. Character prompts are ready to paste directly into Seedance 2 in `looks/characters.md`
 3. Follow the trilogy structure and beat outline in `plan/trilogy.md`
 4. Each act folder will accumulate shot-specific prompts and generated frames as production progresses

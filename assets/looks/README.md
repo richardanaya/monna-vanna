@@ -1,6 +1,6 @@
 # Character Face Locks - GPT Image 2
 
-Principal character face locks for *Monna Vanna*, generated using Fal GPT Image 2 in the Tempera Chronicle style.
+Principal character face locks for *Monna Vanna*, generated using Fal GPT Image 2 in the Oil Chronicle style (academic history painting).
 
 ## Files
 
@@ -17,10 +17,10 @@ Principal character face locks for *Monna Vanna*, generated using Fal GPT Image 
 
 ## Style
 
-All images follow the Tempera Chronicle visual style:
-- Renaissance fresco-influenced cinematic illustration
-- Painted history panel aesthetic
-- Tempera and oil texture
+All images follow the Oil Chronicle visual style:
+- 19th-century academic history painting
+- Oil on canvas aesthetic with visible brush and canvas grain
+- Painted cinematic stills
 - Ochre limestone, iron-grey, torch-amber palette
 - Hard directional painted light
 - Stylized, not photoreal

@@ -1,5 +1,7 @@
 # Tempera Chronicle Visual Style
 
+> **⚠️ SUPERSEDED:** This page is archived. New generations use **[Oil Chronicle](style-oil-chronicle.md)** style. See `docs/style-oil-chronicle.md` for current production style.
+
 ## Overview
 
 **Tempera Chronicle** is the locked visual aesthetic for the *Monna Vanna* AI film adaptation. It evokes Renaissance fresco and early panel painting, creating a cinematic illustration style that is **stylized, painterly, and deliberately not photorealistic.**

@@ -1,5 +1,7 @@
 # Character Visual Design Lock
 
+> **⚠️ NOTE:** New generations use the **Oil Chronicle** suffix from `docs/style-oil-chronicle.md`.
+
 All character prompts are **paste-ready for Seedance 2** and include the full Tempera Chronicle STYLE SUFFIX. Copy the entire block for each character when generating images.
 
 ---
