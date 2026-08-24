@@ -29,7 +29,7 @@ All image generation follows the **Tempera Chronicle** style: Renaissance fresco
 - **[acts/](acts/)** — Per-act production folders
   - [I/](acts/I/) — Act I: The Price (unit map and shot list complete)
   - [II/](acts/II/) — Act II: The Tent (unit map and shot list complete)
-  - [III/](acts/III/) — Act III: The Refusal (TBD)
+  - [III/](acts/III/) — Act III: The Refusal (unit map and shot list complete)
 
 - **[assets/](assets/)** — Generated images, test frames, reference material
 

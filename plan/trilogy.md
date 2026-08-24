@@ -23,11 +23,11 @@ Each act is a self-contained film chapter with its own dramatic arc, but all thr
 **Duration:** ~70–85 minutes (word-for-word, ~7,600 words spoken dialogue)
 
 ### **Act III: The Refusal**
-**Setting:** Pisa, Guido and Giovanna's residence  
+**Setting:** State apartment of Guido Colonna (lofty windows, marble columns, terrace up a great double staircase, view over the town)  
 **Time:** Morning, immediately after Act II  
-**Duration:** TBD (pending Sutro 1904 correction)
+**Duration:** ~55–70 minutes (word-for-word, ~6,000 words spoken dialogue)
 
-**Total trilogy runtime:** ~130–160 minutes + Act III TBD (Act I ~60–75 min + Act II ~70–85 min + Act III pending Sutro correction)
+**Total trilogy runtime:** ~185–230 minutes (Act I ~60–75 min + Act II ~70–85 min + Act III ~55–70 min) ≈ **~3–4 hours** if spoken complete. That is the cost of word-for-word.
 
 **Production approach:** Audio first. Lock a full Sutro reading for each act; cut picture to that track. Never compress dialogue to fit arbitrary runtimes.
 
@@ -65,7 +65,7 @@ While all three principal characters (Giovanna, Guido, Prinzivalle) are essentia
 
 - **Act I:** Ensemble POV (Guido, Marco, Giovanna, Pisan council), but Giovanna's decision is the climax
 - **Act II:** Dual POV (Giovanna and Prinzivalle), intimate two-hander in the tent
-- **Act III:** Dual POV (Giovanna and Guido), the marriage under moral strain, Marco as witness
+- **Act III:** Public tribunal POV — Giovanna as truth-teller rejected by all but Marco; then conspirator with Marco to save Prinzivalle through a public lie
 
 **Visual emphasis:**
 - Close-ups and held shots on Giovanna's face when moral weight intensifies
@@ -256,60 +256,104 @@ While all three principal characters (Giovanna, Guido, Prinzivalle) are essentia
 
 ### **Act III: The Refusal**
 
-**⚠️ WARNING: The Act III beats below DO NOT match Sutro 1904 and will be replaced in a subsequent pass. This section is a placeholder paraphrase pending director's correction from the 1904 text. Do not use this outline for production.**
+**Location:** One continuous scene in the state apartment of Guido Colonna (lofty windows, porticos, marble columns, terrace up a great double staircase, vases of flowers, view over the town)
 
-**Location:** Pisa, Guido and Giovanna's residence
+**Principals:** Giovanna/Vanna, Guido Colonna, Marco Colonna, Prinzivalle (bandaged, mostly silent), Borso, Torello, crowd/people of Pisa
 
-**Principals:** Giovanna, Guido, Marco, Vedio (Prinzivalle's secretary from Act II, now in Pisa)
+**Note:** Prinzivalle **is on stage** from Unit B onward. She does NOT return alone. Vedio is mentioned but does not appear in Act III.
 
-**Setup:**
-- Morning. Giovanna has returned
-- Food has arrived — Pisa is saved
-- But **Guido is shattered**: what happened in the tent?
+**Setup (UNIT A — His turn):**
+- Morning, dawn after the contract-night
+- City is fed; Pisa is saved
+- Guido: the night belonged to the buyer; **now it is his turn**
+- He will take his men and **destroy the man**, then "forgive" her when the man has ceased to be
+- He **curses and dismisses Marco**: she is not his while the man lives
+- Marco: curse me, but pardon her; let me see her throw herself into your arms, then I go
 
-**First confrontation:**
-- Guido demands to know: **Did Prinzivalle dishonor you?**
-- Giovanna: **No. He kept his word. He let me go untouched.**
-- Guido: **Then why do you seem… changed?**
+**The return (UNIT B — The acclaim):**
+- Distant murmur becomes **"Vanna, Vanna, our Monna Vanna!"**
+- View from the terrace: square black with people, flowers thrown
+- Borso holds Marco back: **"She returns in triumph."**
+- **TORELLO: "But who is the man who is walking by her side?"**
+- Borso: he hides his face; I have never seen him
+- Marco hurls flowers down the stairs: "More beautiful than Judith, and purer than Lucrece!"
 
-**Rising tension:**
-- Guido's jealousy and doubt consume him
-- He cannot believe Prinzivalle simply "let her go" — **there must be more**
-- Giovanna insists: **I am telling the truth. He did not touch me.**
-- But Guido fixates on details: **Why did he ask for the mantle condition? What did he say? Did he look at you?**
+**On the steps (UNIT C — She and he on the steps):**
+- **They appear at the top of the steps together** — Vanna and bandaged Prinzivalle
+- She into Marco's arms: **"My father, I am happy."**
+- "Where is Guido? … He must be the first to hear."
+- Guido steps forward, **repels** her: he will not be touched
+- Clears the hall: **"Go, all!"** — seizes Marco: **"You, too!"**
+- To the veiled man: **"Who are you…?"** — moves to tear the bandages
+- Vanna: **"Do not touch him!"**
 
-**Moral crisis:**
-- Guido realizes: **even if Prinzivalle did nothing, I can never unhear this story**
-- The **image** of Giovanna in Prinzivalle's tent, even innocent, has poisoned Guido's mind
-- Giovanna realizes: **I sacrificed my honor to save Pisa, and now my husband cannot forgive me**
+**Judith misread (UNIT D — Named / misread as Judith):**
+- Vanna: **"It is he who saved me. … He spared me, respected me. … He comes here with me, under my protection."**
+- She names him: **"Prinzivalle."**
+- Guido's exaltation: **stratagem! Holophernes! Kisses of hatred! A trap!**
+- He shouts from the terrace: **"Prinzivalle! The enemy is here! We hold him!"**
+- Marco recognizes him; crowd movement
+- Guido: she is **greater than Lucrece or Judith** — she brings the victim alive
+- He calls the crowd back to hear how she did this
 
-**Marco's intervention:**
-- Marco, who initially opposed Giovanna's choice, now defends her
-- He argues: **She did what we asked. She saved the city. You owe her gratitude, not suspicion.**
-- Guido cannot accept this — **his pride is wounded beyond repair**
+**The truth that only Marco believes (UNIT E):**
+- She will not be kissed until he hears
+- **"In all my life I have never lied… he did not come near me, he did not touch me. … I come from his tent as from the home of a brother."**
+- **"Because he loves me."**
+- One kiss on the brow, returned (she names it; we do not restage it)
+- Guido: madness / not human
+- He asks the people to step forth if they believe
+- **Marco alone stands forth: "I believe her!"** (faint murmurs only from the crowd)
+- She to Guido: **"They have no cause to believe me; but you, you who loved me!"**
+- She repeats: **"He did not touch me."**
 
-**Climax:**
-- Guido accuses Giovanna of lying or hiding something
-- Giovanna, exhausted and furious, refuses to defend herself further: **Believe what you will. I know the truth.**
-- Guido: **I cannot live with this doubt.**
-- Giovanna: **Then you have already lost me.**
+**The bargain he will not honor (UNIT F):**
+- Guido's oath: they may go freely if she tells **"the only possible truth"** (that she was taken)
+- She: **"I have told you the truth. … He did not touch me."**
+- He: she has condemned him
+- Guards: **lowest dungeon**
+- **"You will never see him again."**
 
-**Falling action:**
-- Guido, broken, realizes he has destroyed his marriage through his own suspicion
-- Giovanna, dignified but devastated, prepares to leave
-- Marco, witnessing the ruin, is silent
-
-**Final beat (ambiguous):**
-- Does Giovanna leave?
-- Does Guido beg forgiveness?
-- Maeterlinck leaves this **unresolved** — the play ends with the marriage in ruins, honor saved but love destroyed
+**The second lie / the key (UNIT G — climax and curtain):**
+- She throws herself among the guards: **"No, no! I have lied, I have lied!"**
+- She publicly claims he was a monster; she feared; she binds him with cords
+- **Whisper to Prinzivalle as she ties his hands:** **"Be silent! He saves us… I belong to you, I love you! I love you, my Gianello!"**
+- **PRINZIVALLE (his only line in Act III):** **"She lies! She lies to save me!"**
+- She drowns him out: claims the wound as her dagger, invents a slow-revenge story for Guido
+- **"Give me the key."**
+- She entrusts Prinzivalle to Marco with a look: he must understand
+- Prinzivalle is taken away; she totters, falls into Marco
+- Marco, low: **"I understand your falsehood."**
+- Guido takes her: **"I never doubted."** (he has the lie he needed)
+- **Last line:** VANNA — **"Yes, it has been a bad dream … but the beautiful one will begin. The beautiful one will begin."**
+- **CURTAIN.**
 
 **Visual beats:**
-- Morning light through shutters, stone interior, stark and cold
-- Guido pacing, unable to look at Giovanna directly
-- Giovanna seated, hands folded, face composed but eyes hollow
-- Marco as witness, standing near the door, aged by the tragedy
-- Final shot: Giovanna's face in profile, expression unreadable, sunlight on stone
+- State apartment: lofty windows, marble columns, double staircase to a terrace, flower vases on the balustrade, view over Pisa, morning light (colder than Act I torch)
+- Crowd heard, then seen: acclaim from the terrace, invasion of the stairs, dispersal, recall as jury, dispersal again
+- Prinzivalle as bandaged silent presence (except one cry) — face hidden until Marco recognizes
+- Guido's exaltation when he misreads the return as a Judith trap
+- Marco alone standing forth from a silent crowd
+- The whisper (CU) vs. the shouted lie (for Guido and crowd) — shoot both so the audience has what Marco has
+- The key as object: heavy iron dungeon key, the promise of the second life
+- Last image: her face + the key + "the beautiful one will begin" — not a fade on Guido or an ambiguous exit
+
+**Key corrections from earlier paraphrase:**
+- She does NOT return alone — **Prinzivalle walks beside her**, face hidden/bandaged
+- Guido's first intent is not private interrogation — he will **destroy the man** with his fighting men, then "forgive" her
+- He **misreads** her bringing Prinzivalle as a **Judith** stratagem (public execution)
+- She tells the **truth**: not touched, tent as a brother's home, one brow kiss returned
+- **Marco alone believes** publicly; the crowd will not
+- Guido offers **free passage** for "the only possible truth" (that she was taken); she repeats the truth; he **condemns Prinzivalle**
+- She **publicly recants** (*"I have lied, I have lied!"*) to seize custody
+- **Whisper:** *"I belong to you, I love you, my Gianello!"* — his cry: *"She lies! She lies to save me."*
+- She demands **the key**; entrusts him to Marco; Marco understands the falsehood
+- **Last line:** *"The beautiful one will begin. The beautiful one will begin."* **CURTAIN.**
+- Do NOT end on "does she leave / marriage in ruins / ambiguous" — the play ends on the key and the second life she will start with Prinzivalle
+- Word count: ~6,000 words → honest runtime **~55–70 minutes** for word-for-word filmed performance
+- Do NOT compress to ~30–35 min
+
+**See `acts/III/README.md` and `acts/III/shots.md` for full unit map and shot list.**
 
 ---
 
@@ -332,14 +376,14 @@ Though the play has a large cast, **it is fundamentally a three-hander:**
 
 ## Shot List Development
 
-Each act folder (`acts/I/`, `acts/II/`, `acts/III/`) will eventually contain:
+Each act folder (`acts/I/`, `acts/II/`, `acts/III/`) contains:
 
 1. **Full dialogue script** (Sutro 1904 text, formatted for film)
 2. **Shot-by-shot breakdown** (scene numbers, shot descriptions, character prompts)
 3. **Seedance 2 prompt batches** (paste-ready for image generation)
 4. **Generated frames** (stored in `assets/` or per-act subfolders)
 
-**Act I is complete:** Full unit map (`acts/I/README.md`) and shot list (`acts/I/shots.md`) are committed. Acts II and III will be developed from Sutro 1904 text in subsequent passes.
+**All three acts are complete:** Full unit maps and shot lists committed for Acts I, II, and III from Sutro 1904 text.
 
 ---
 
