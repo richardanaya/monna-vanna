@@ -18,16 +18,16 @@ Each act is a self-contained film chapter with its own dramatic arc, but all thr
 **Duration:** ~60–75 minutes (word-for-word, ~6,700 words spoken dialogue)
 
 ### **Act II: The Tent**
-**Setting:** Florentine siege camp, Prinzivalle's tent  
-**Time:** Dawn, the morning after Act I  
-**Duration:** TBD (pending Sutro 1904 correction)
+**Setting:** Prinzivalle's tent in the Florentine siege camp  
+**Time:** Night (past nine) ending at wakening dawn  
+**Duration:** ~70–85 minutes (word-for-word, ~7,600 words spoken dialogue)
 
 ### **Act III: The Refusal**
 **Setting:** Pisa, Guido and Giovanna's residence  
 **Time:** Morning, immediately after Act II  
 **Duration:** TBD (pending Sutro 1904 correction)
 
-**Total trilogy runtime:** ~150–180 minutes estimated (feature-length when combined, or three standalone act-films)
+**Total trilogy runtime:** ~130–160 minutes + Act III TBD (Act I ~60–75 min + Act II ~70–85 min + Act III pending Sutro correction)
 
 **Production approach:** Audio first. Lock a full Sutro reading for each act; cut picture to that track. Never compress dialogue to fit arbitrary runtimes.
 
@@ -161,59 +161,102 @@ While all three principal characters (Giovanna, Guido, Prinzivalle) are essentia
 
 ### **Act II: The Tent**
 
-**Location:** Florentine siege camp, Prinzivalle's tent
+**Location:** One continuous scene in Prinzivalle's tent in the Florentine siege camp (sumptuous disorder: silk and gold hangings, chests, furs, arms; heavy curtain at back)
 
-**Principals:** Giovanna, Prinzivalle, Trivulzio (briefly)
+**Principals:** Prinzivalle (Florentine mercenary captain), Giovanna/Vanna, Trivulzio (Florentine Commissioner), Vedio (Prinzivalle's secretary), Galician guards (Hernando, Diego)
 
-**Setup:**
-- Dawn. Giovanna arrives at Prinzivalle's tent, escorted by Florentine soldiers
-- Prinzivalle dismisses his men
-- He and Giovanna are alone
+**Note:** Guido and Marco do NOT appear in Act II. Do not invent them in the tent. Vedio is Prinzivalle's man, not a Pisan.
 
-**First confrontation:**
-- Prinzivalle is **not** the villain Giovanna expected
-- He explains: **he knew Guido would never surrender, but he believed Giovanna had the courage to come**
-- The "condition" was a test of her will and Guido's trust — **Prinzivalle has no intention of harming her**
+**Setup (UNIT A — The night is mine):**
+- Night (Vedio: "It is past nine"), not "dawn, the morning after"
+- Prinzivalle receives letter from Trivulzio: assault at dawn or immediate arrest
+- "The night, at least, is mine"
+- Trivulzio will follow shortly
+- Marco has not returned from Pisa — if the offer were rejected, he would be here
 
-**Revelation:**
-- Prinzivalle was once Guido's closest friend; they fought together as young men
-- He still loves Guido (as a brother) and admires Giovanna (with restrained, unspoken longing)
-- He defected to Florence because of disillusionment with Florentine politics, not hatred of Pisa
-- **He will keep his word:** food wagons are already moving toward Pisa
+**Major scene (UNIT B — Trivulzio):**
+- Trivulzio enters: signals from Pisa's Campanile
+- Florence's "prudence," enemies plotting Prinzivalle's arrest
+- Assault ordered for tomorrow morning
+- Prinzivalle produces **intercepted letters** proving Florentine commanders' betrayal
+- **"This evening Pisa shall be saved…"**
+- Trivulzio draws a dagger and **stabs Prinzivalle in the face**
+- Prinzivalle does NOT kill him: "He is an enemy whom I love"
+- Guards take Trivulzio away unharmed; he will be released later
 
-**Rising tension:**
-- Giovanna, relieved but confused, asks: **Why the mantle condition? Why humiliate me?**
-- Prinzivalle: **I wanted to see if you were as brave as I imagined. You are.**
-- The tent scene becomes a philosophical and emotional duel: **honor, trust, loyalty, and unspoken desire**
-- Prinzivalle admits he could have demanded less — but he wanted to know if Giovanna would risk **everything** for Pisa
+**Wound and convoy (UNIT C — Bandage, waggons, the shot):**
+- Mirror; wound not deep but "bitten into my face"
+- Vedio bandages the wound, eyes left uncovered
+- Prinzivalle tells Vedio to escape with gold when the time comes
+- **Waggons and flocks assemble in front of the tent** (convoy ready before she arrives)
+- Distant gunshot: "If they should have fired at her!"
 
-**Moral ambiguity:**
-- Did Prinzivalle manipulate her?
-- Did he test her courage or exploit her vulnerability?
-- Does his restraint absolve him, or is the humiliation unforgivable?
-- **Giovanna herself is uncertain**
+**She arrives (UNIT D — She arrives):**
+- Vedio murmurs "Master" and withdraws
+- **Monna Vanna, wrapt in a long mantle, pauses on the threshold**
+- Blood on her hand; a ball grazed her shoulder
+- Why did she come? **"Because out yonder they perish of hunger…"**
+- **"You are clad only in your mantle?" / "Yes." / "I have only my sandals and this mantle."**
+- He lists the convoy; **they watch it start into Pisa during this scene** (not after a refusal)
+- She sits on the couch, closely wrapped; lamp on her eyes
 
-**Climax:**
-- Trivulzio enters, reports that Florentine commanders are suspicious of Prinzivalle's "treason"
-- Prinzivalle must flee — **he asks Giovanna to come with him**
-- Giovanna refuses: **she will return to Guido**
-- Prinzivalle, heartbroken but respectful, lets her go
-- He gives her his cloak (a different one, heavier) to cover herself for the journey back
+**Recognition (UNIT E — Gianello):**
+- He kneels, names her: "Giovanna! … Oh, Vanna, my Vanna…"
+- "Who are you?"
+- **Venice, a Sunday in June**: goldsmith's pearls, pond, golden ring, he nearly drowned
+- **"It was a fair-haired child named Gianello. Are you Gianello?" / "Yes."**
+- She helps him adjust the bandage so she can see his face
+- Twelve childhood games; he went to Africa; he would have known her among ten thousand
+- **NOT "Guido's former friend" — this is a Venice childhood recognition (he was 12, she was 8)**
 
-**Falling action:**
-- Giovanna departs at dawn
-- Prinzivalle watches her leave, silent
-- Food wagons roll toward Pisa
+**Moral argument (UNIT F — Mercy without force):**
+- She will not call this courage of love; she loves Guido with open eyes; she will not break that love
+- Prinzivalle: "You are in my tent now, and at my mercy… But you know as well as I that the love of which I have spoken craves other things… **I shall not touch it again.**"
+- He tells the truth: **he has no country**; he is **already condemned** by Florence; tonight's act may **save** him, not only ruin him
+- He will not buy a smile with a lie
+- She offers her hand: **"Ah, Gianello, Gianello, this is worth more than love… Take it."**
+
+**Alarm and exodus (UNIT G — Fly / Pisa's fires / the brow):**
+- Whispers; Vedio rushes in: **Maladura** returned with six hundred Florentines; Prinzivalle proclaimed traitor
+- Vedio: "Quick, quick! Master, you must fly!"
+- **SHE says: "Come to Pisa."** (She invites him; he does NOT first ask her to elope as a lover)
+- He resists (fears for her reputation); she stands surety
+- **"So be it: I will go with you."**
+- Tent thrown open: bells, bonfires, **Pisa's fires of joy**, Campanile like a torch
+- Her speech: "Look, Vanna, look! … Come, my Gianello!"
+- **(She kisses him on the brow.)** **"That is the only kiss I can give you."** (Brow only, not mouth)
+- She is faint; **they go out together, he supporting her**
+- Last line: "Quick! Let us hasten, it is time. We must arrive before the joy has faded."
 
 **Visual beats:**
-- Tent interior: ochre canvas, single brazier or candle, dawn light seeping through tent flap
-- Prinzivalle's face: conflicted, tender, dangerous, restrained
-- Giovanna's face: wary, then surprised, then moved, then resolute
-- Final shot: Giovanna walking away at dawn, Prinzivalle's cloak over her shoulders, Pisan walls in the distance
+- One tent throughout: sumptuous painted disorder (silk/gold hangings, chests, furs, arms), not romantasy glow, not bare cell
+- Single lamp; heavy curtain at back
+- Trivulzio's dagger: painted violence, not gore spectacle
+- Bandaged Prinzivalle after Unit B (linen on cheek, eyes uncovered)
+- Convoy starting: torches, waggons, oxen, sheep, starry night (Unit D, before recognition)
+- Mantle: throat-to-floor from entrance to exit; she sits "closely wrapped"; mantle never opens for the camera
+- Pisa's fires of joy: distant city brilliantly lit, Campanile blazing, bells and bonfires
+- Brow kiss only (not mouth); they exit together, he supporting her
+
+**Key corrections from earlier paraphrase:**
+- Time is **night (past nine) → wakening dawn**, not "dawn, the morning after" as the whole act
+- Trivulzio is a MAJOR scene (assault order, letters, stabs Prinzivalle), not a brief walk-on
+- Convoy starts **mid-act at her order** while they watch from the tent door, not after she refuses him
+- Recognition: **Venice childhood / Gianello** (he 12, she 8; pond, ring), NOT "Guido's former friend"
+- He has **no country**, **already condemned**; tonight may **save** him (she then gives her hand)
+- Alarm: Maladura + 600 Florentines. **SHE** says "Come to Pisa" (not him asking her to flee first)
+- Button: Pisa's fires; **kiss on the brow only**; they go out **together**, he supporting her
+- He does NOT give her "a different cloak" for the journey — she stays mantled as she arrived
+- Word count: ~7,600 words → honest runtime **~70–85 minutes** for word-for-word filmed performance
+- Do NOT compress to ~30–35 min
+
+**See `acts/II/README.md` and `acts/II/shots.md` for full unit map and shot list.**
 
 ---
 
 ### **Act III: The Refusal**
+
+**⚠️ WARNING: The Act III beats below DO NOT match Sutro 1904 and will be replaced in a subsequent pass. This section is a placeholder paraphrase pending director's correction from the 1904 text. Do not use this outline for production.**
 
 **Location:** Pisa, Guido and Giovanna's residence
 
