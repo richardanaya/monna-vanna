@@ -18,6 +18,16 @@ Heroic clarity still holds: she decides; the camera does not apologize.
 
 ---
 
+## Production Aspect Ratio: 2.39:1 (CinemaScope)
+
+**Locked 2026-08-25.** All new cinema stills and title cards use **2.39:1** (CinemaScope).
+
+- **Fal size for 2.39:1**: `image_size: {"width": 1920, "height": 800}` (both multiples of 16)
+- **Existing face locks** in `assets/looks/` stay as-is (4:3 portrait studies)
+- **Do not generate 4:3 portraits** for new cinema frames
+
+---
+
 ## Master STYLE SUFFIX (paste on every new prompt)
 
 ```
